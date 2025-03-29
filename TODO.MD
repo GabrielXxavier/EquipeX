@@ -1,9 +1,9 @@
-
+# MVP
 - Landingpage
     -Divulgar o serviço 
 
 - Cadastro das empresas 
-    --- Empresas que querem contratar pessoas e servir outros serviços
+    - Empresas que querem contratar pessoas e servir outros serviços
 
         - Diagnostico se ela pode ou não pode ter uma sede em piraquara 
             - Formulario para diagnostico
@@ -17,10 +17,10 @@
 
 ---
 
-# INTERFACES
+## INTERFACES
 
 - Empresas que querem contratar e servir outros serviços
-    --view
+    -view
         -Funcionarios de piraquara
         -Serviços que outrs empresas querem tercerizar 
     
